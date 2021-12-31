@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Free_Lunch_Machines" />
+		<Description value="Adds lootable vending machines aka Free Lunch." />
+		<Author value="mr.devolver"/>
+		<Version value="A20"/>
+		<Website value="https://community.7daystodie.com/" />
+	</ModInfo>
+</xml>

@@ -1,0 +1,49 @@
+<configs>
+	<append xpath="/lootcontainers">
+		<lootgroup name="vendingCannedFood">
+			<item name="foodCanBeef"/>
+			<item name="foodCanCatfood"/>
+			<item name="foodCanChicken"/>
+			<item name="foodCanChili"/>
+			<item name="foodCanDogfood"/>
+			<item name="foodCanSham"/>
+			<item name="foodCanLamb"/>
+			<item name="foodCanMiso"/>
+			<item name="foodCanPasta"/>
+			<item name="foodCanPeas"/>
+			<item name="foodCanSalmon"/>
+			<item name="foodCanSoup"/>
+			<item name="foodCanStock"/>
+			<item name="foodCanTuna"/>
+			<item name="foodCanPears"/>
+		</lootgroup>
+		<lootgroup name="vendingPreparedDrink">
+			<item name="drinkJarYuccaJuice" count="2,8"/>
+			<item name="drinkJarBoiledWater" count="2,8"/>
+			<item name="drinkJarGoldenRodTea" count="2,8"/>
+			<item name="drinkJarRedTea" count="2,8"/>
+			<item name="drinkJarCoffee" count="1,5"/>
+			<item name="drinkJarBeer" count="1,5"/>
+			<item name="drinkYuccaJuiceSmoothie" count="1"/>
+		</lootgroup>
+		<lootgroup name="vendingCandy">
+			<item name="drugAtomJunkies" count="1"/>
+			<item name="drugCovertCats" count="1"/>
+			<item name="drugEyeKandy" count="1"/>
+			<item name="drugHackers" count="1"/>
+			<item name="drugHealthBar" count="1"/>
+			<item name="drugJailBreakers" count="1"/>
+			<item name="drugNerdTats" count="1"/>
+			<item name="drugOhShitzDrops" count="1"/>
+			<item name="drugRockBusters" count="1"/>
+			<item name="drugSkullCrushers" count="1"/>
+			<item name="drugSugarButts" count="1"/>
+		</lootgroup>
+		<lootcontainer id="158" name="vendingFreeLunch" count="10,20" size="8,8" sound_open="UseActions/open_vending" sound_close="UseActions/close_vending" loot_quality_template="qualBaseTemplate">
+			<item group="vendingCannedFood" count="1"/>
+			<item group="vendingPreparedDrink" count="1"/>
+			<item group="vendingCandy" count="1"/>
+			<item name="casinoCoin" count="0,600"/> 
+		</lootcontainer>
+	</append>
+</configs>

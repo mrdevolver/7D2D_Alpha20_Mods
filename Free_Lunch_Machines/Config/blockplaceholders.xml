@@ -1,0 +1,6 @@
+<configs> 
+<set xpath="/blockplaceholders/placeholder[@name='cntVendingMachine2RandomLootHelper']/block[@name='cntVendingMachine2Broken']/@prob">.24</set>
+<append xpath="/blockplaceholders/placeholder[@name='cntVendingMachine2RandomLootHelper']">
+<block name="cntVendingMachine2FLSecure" prob=".42"/>
+</append>
+</configs> 
