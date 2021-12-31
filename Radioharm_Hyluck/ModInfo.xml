@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Radioharm_Hyluck" />
+		<Description value="Adds an alternative way of curing dysentery to the Game." />
+		<Author value="mr.devolver"/>
+		<Version value="A20"/>
+		<Website value="https://community.7daystodie.com/" />
+	</ModInfo>
+</xml>

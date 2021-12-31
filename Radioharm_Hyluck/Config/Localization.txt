@@ -1,0 +1,3 @@
+Key,File,Type,english
+medicalHyluck,items,Medical,Radioharm Hyluck
+medicalHyluckDesc,items,Medical,"Manufacturer's name as well as the name of this medicine is unreadable, although old survivors believe its name was Hyluck made by Radioharm and it used to be a very potent medicine to cure all kinds of digestive and intestinal problems including, but not limited to dysentery. Definitely beats Goldenrod Tea, but it's more rare. You should probably keep this for the most severe cases."
