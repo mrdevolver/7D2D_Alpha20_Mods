@@ -1,0 +1,209 @@
+<configs>
+
+	<append xpath="/entity_classes">
+
+		<!--  50s Women Models by Zuhian Teiyu Purchased for use in NPC Mod  -->
+
+		<entity_class name="npcRaiderJayneClub" extends="RaiderJayneClub"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderBettyClub" extends="RaiderBettyClub"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGinaClub" extends="RaiderGinaClub"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderHedyClub" extends="RaiderHedyClub"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGypsyClub" extends="RaiderGypsyClub"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderJayneKnife" extends="RaiderJayneKnife"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderBettyKnife" extends="RaiderBettyKnife"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGinaKnife" extends="RaiderGinaKnife"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderHedyKnife" extends="RaiderHedyKnife"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGypsyKnife" extends="RaiderGypsyKnife"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGypsyBat" extends="RaiderGypsyBat"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderJayneBat" extends="RaiderJayneBat"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderBettyBat" extends="RaiderBettyBat"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderHedyBat" extends="RaiderHedyBat"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGinaBat" extends="RaiderGinaBat"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderHedyAxe" extends="RaiderHedyAxe"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderBettyAxe" extends="RaiderBettyAxe"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderJayneAxe" extends="RaiderJayneAxe"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGypsyAxe" extends="RaiderGypsyAxe"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGinaAxe" extends="RaiderGinaAxe"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderJayneSMG" extends="RaiderJayneSMG"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderBettySMG" extends="RaiderBettySMG"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderHedySMG" extends="RaiderHedySMG"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGinaSMG" extends="RaiderGinaSMG"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGypsySMG" extends="RaiderGypsySMG"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGinaDPistol" extends="RaiderGinaDPistol"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderJayneDPistol" extends="RaiderJayneDPistol"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderHedyDPistol" extends="RaiderHedyDPistol"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderBettyDPistol" extends="RaiderBettyDPistol"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGypsyDPistol" extends="RaiderGypsyDPistol"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGinaTRifle" extends="RaiderGinaTRifle"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderJayneTRifle" extends="RaiderJayneTRifle"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderHedyTRifle" extends="RaiderHedyTRifle"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderBettyTRifle" extends="RaiderBettyTRifle"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGypsyTRifle" extends="RaiderGypsyTRifle"> 
+			<property name="Tags" value="entity,female,npc,ranged,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGinaMachete" extends="RaiderGinaMachete"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderBettyMachete" extends="RaiderBettyMachete"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderJayneMachete" extends="RaiderJayneMachete"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderHedyMachete" extends="RaiderHedyMachete"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+		<entity_class name="npcRaiderGypsyMachete" extends="RaiderGypsyMachete"> 
+			<property name="Tags" value="entity,female,npc,melee,cp,UMA2"/>
+			<property name="Faction" value="whiteriver"/>
+		</entity_class>
+
+	</append>
+
+</configs>
