@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="More_Beakers_And_Acid" />
+		<Description value="Changes loot probability of Beakers and Acid from veryLow to just low, because character level 65+ should already have a few...." />
+		<Author value="mr.devolver"/>
+		<Version value="A20"/>
+		<Website value="https://community.7daystodie.com/" />
+	</ModInfo>
+</xml>
