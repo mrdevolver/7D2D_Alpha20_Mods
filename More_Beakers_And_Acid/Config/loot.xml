@@ -1,4 +1,4 @@
 <configs>
-<set xpath="/lootcontainers/lootgroup/item[@name='toolBeaker'][@loot_prob_template='veryLow']/@loot_prob_template">low</set>
-<set xpath="/lootcontainers/lootgroup/item[@name='resourceAcid'][@loot_prob_template='veryLow']/@loot_prob_template">low</set>
+	<set xpath="/lootcontainers/lootgroup/item[@name='toolBeaker' and @loot_prob_template='veryLow']/@loot_prob_template">low</set>
+	<set xpath="/lootcontainers/lootgroup/item[@name='resourceAcid' and @loot_prob_template='veryLow']/@loot_prob_template">low</set>
 </configs>
