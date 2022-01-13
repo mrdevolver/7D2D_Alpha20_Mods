@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Remove_Early_Quest_Resource_Indicators" />
+		<Description value="Removes early quest resource indicators." />
+		<Author value="mr.devolver" />
+		<Version value="1.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>
